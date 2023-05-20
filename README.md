@@ -1,1 +1,2 @@
-# Visit https://prooflab.stevens.edu
+We are consolidating...
+[Visit Lab's Website](https://prooflab.stevens.edu)
